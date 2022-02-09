@@ -2,6 +2,8 @@
 
 [demo](https://nadiyahr.github.io/angular-search/)
 
+ng deploy --base-href=angular-search
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
 ## Development server
